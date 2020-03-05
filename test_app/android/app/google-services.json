@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "136519918605",
+    "firebase_url": "https://smart-ai-64eb9.firebaseio.com",
+    "project_id": "smart-ai-64eb9",
+    "storage_bucket": "smart-ai-64eb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136519918605:android:3fa00e03177d17164d2144",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136519918605-4hcqpunav35gle8tl1toofdo8iai6lpp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_app",
+            "certificate_hash": "ae4b9768c7c2bc05f818432a81bd3532420217f9"
+          }
+        },
+        {
+          "client_id": "136519918605-bknnimh5doesqccfjvsi3mdbq1n8s0cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Kqq2-Mu8WnvmpPIPjgq5RyF8d-9CX0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136519918605-bknnimh5doesqccfjvsi3mdbq1n8s0cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
